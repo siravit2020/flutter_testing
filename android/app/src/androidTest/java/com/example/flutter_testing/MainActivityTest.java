@@ -1,5 +1,5 @@
 // Change this line to YOUR package name:
-package com.resocoder.integration_testing_prep;
+package com.example.flutter_testing;
 
 import androidx.test.rule.ActivityTestRule;
 import dev.flutter.plugins.integration_test.FlutterTestRunner;
